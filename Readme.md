@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Никита Ткачев](https://up.htmlacademy.ru/univer-js1/1/user/2221203).
-* Наставник: `Неизвестно`.
+* Наставник: [Геннадий Максимов](https://htmlacademy.ru/profile/id497967).
 
 ---
 
@@ -12,7 +12,7 @@ _`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `package-lock.jso
 
 [Как работать с Git на проекте](Contributing.md) | [Как работать над проектом](Workflow.md)
 
-### Памятка
+### Памятка22
 
 #### 1. Зарегистрируйтесь на Гитхабе
 
